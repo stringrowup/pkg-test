@@ -10,6 +10,9 @@
     "type": "git",
     "url": "@stringrowup/test-pkg"
   },
+  "publishConfig": {
+  "@stringrowup:registry": "https://npm.pkg.github.com"
+},
   "author": "stringrow",
   "license": "ISC"
 }
